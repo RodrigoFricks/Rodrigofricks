@@ -8,15 +8,26 @@
 ## 🛠 Habilidades
 **🔹 Linguagens e Frameworks**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"/>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"/> 
+</p>
+ 
+
+
+
+
+
 
 **🔹 Banco de Dados e Backend**
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Logo" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask Logo" width="90"/>
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django Logo" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="40" style="margin-right:8px;" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" height="40" style="margin-right:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40"/>
 </p>
+
+
 
 **🔹 Ferramentas e Versionamento**
 
@@ -40,4 +51,7 @@
   <img src="https://media1.tenor.com/m/B8dOHtPbtx4AAAAd/rengoku-kyojuro-hashira.gif" alt="Rengoku Animation" width="600"/>
 </p>
 
+
+
+![Snake animation](https://github.com/Rodrigofricks/Rodrigofricks/blob/output/github-contribution-grid-snake.svg)
 
