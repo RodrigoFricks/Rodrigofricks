@@ -36,8 +36,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Wordmark" height="40"/>
 <img src="https://www.svgrepo.com/show/374159/vba.svg" alt="VBA" height="40"/>
-
 </p>
+
+**📚 Bibliotecas que uso**
+<p align="left">
+<img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="40"/>
+<img src="https://cdn.simpleicons.org/selenium" alt="Selenium" height="40"/>
+<img src="https://tse1.mm.bing.net/th/id/OIP.hIsTC3TxDlLgqOQBD0ytuAHaEK?pid=Api" alt="PyAutoGUI Logo" width="70">
+<img src="https://raw.githubusercontent.com/opencv/opencv/master/samples/data/opencv-logo-white.png" alt="OpenCV Logo" width="50">
+<img src="https://img.shields.io/pypi/v/pypdf2?label=PyPDF2&color=red" alt="PyPDF2 Badge" width="100">
+</p>
+
 
 
 
