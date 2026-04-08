@@ -1,8 +1,7 @@
 {
   "clientes": [
-    { "id": "0001", "ativo": true },
+    { "id": "0001", "ativo": false, "mensagem": "Mensalidade em atraso. Entre em contato com o suporte." },
     { "id": "0002", "ativo": true },
-    { "id": "0003", "ativo": false, "Mensalidade em atraso. Entre em contato." }
+    { "id": "0003", "ativo": false, "mensagem": "Mensalidade em atraso. Entre em contato com o suporte." }
   ]
 }
-
