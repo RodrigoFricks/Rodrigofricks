@@ -1,4 +1,7 @@
 {
-  "ativo": true,
-  "mensagem": ""
+  "clientes": [
+    { "id": "0001", "ativo": true },
+    { "id": "0002", "ativo": true },
+    { "id": "0003", "ativo": false, "Mensalidade em atraso. Entre em contato." }
+  ]
 }
